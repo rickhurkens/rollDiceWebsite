@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+#settingsForm {
+	width: 500px;
+}
+#settingsForm input {
+	width: 100%;
+}
+#rollButtonArea {
+	margin: 15px 0;
+	width: 500px;
+}
+#rollButtonArea input {
+	width: 100%;
+	font-size: 20px;
+}
+#resultArea {
+	width: 500px;
+}
+.dice {
+	border: 1px solid black;
+	margin: 10px;
+	width: 30px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 30px;
+}
+#totalValue {
+	display: block;
+	clear: both;
+}
